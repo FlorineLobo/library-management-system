@@ -1,0 +1,58 @@
+{
+    "books": [
+        {
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "isbn": "9780061122415",
+            "is_available": true
+        },
+        {
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "isbn": "9780735211292",
+            "is_available": false
+        },
+        {
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "isbn": "9780439708180",
+            "is_available": false
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "isbn": "9780061120084",
+            "is_available": true
+        },
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "isbn": "9780743273565",
+            "is_available": true
+        },
+        {
+            "title": "ABC",
+            "author": "PQR",
+            "isbn": "12",
+            "is_available": true
+        }
+    ],
+    "users": [
+        {
+            "name": "Alice",
+            "borrowed_books": [
+                "Atomic Habits"
+            ]
+        },
+        {
+            "name": "Bob",
+            "borrowed_books": [
+                "Harry Potter and the Sorcerer's Stone"
+            ]
+        },
+        {
+            "name": "Charlie",
+            "borrowed_books": []
+        }
+    ]
+}
